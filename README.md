@@ -4,9 +4,10 @@
 
 # Airways
 
-Airways is a local flight search and analytics dashboard for comparing Google Flights results across flexible one-way departure dates. It generates one search config per date, runs browser-based flight searches, parses fare and route details, ranks options by converted price, stops, and duration, and saves everything as readable text plus structured JSON.
+Airways is a Python, Flask, and Selenium based flight search automation and analytics dashboard for comparing Google Flights results across flexible one-way departure dates. It combines browser automation, data parsing, JSON-based configuration, currency conversion, result ranking, file-based persistence, and a local web dashboard into one end-to-end travel research tool.
 
-The app is built for practical flight research: enter a route, scan multiple departure dates, compare the best fares, and keep the output files for review.
+The project is built like a small data pipeline: a user enters a route and date range, the system generates one search configuration per date, Selenium runs headless Chrome searches, parsed flight cards are normalized into structured Python data models, prices are converted into a target currency, and the best options are sorted by price, stops, and duration. Results are saved as human-readable reports and structured JSON that powers the dashboard.
+
 
 ## Preview
 
@@ -17,8 +18,6 @@ The app is built for practical flight research: enter a route, scan multiple dep
 ### Results
 
 ![Results Preview](ss/results.png)
-
-> Add screenshots to the `ss/` folder using `dashboard.png` and `results.png`, or update these links if you prefer different filenames.
 
 ## Features
 
@@ -35,14 +34,105 @@ The app is built for practical flight research: enter a route, scan multiple dep
 
 ## Tech Stack
 
-- Python
-- Flask
-- Selenium
-- Chrome / Selenium Manager or ChromeDriver
-- Rich
-- HTML
-- CSS
-- JavaScript
+| Area | Technologies Used |
+| --- | --- |
+| Backend | Python, Flask, pathlib, dataclasses, enums, typing |
+| Automation | Selenium WebDriver, Headless Chrome, Selenium Manager / ChromeDriver |
+| Data Processing | JSON, regular expressions, sorting, deduplication, validation, normalization |
+| API / Networking | Frankfurter exchange-rate API, urllib, URL encoding |
+| Frontend | HTML, CSS, JavaScript, Jinja-style Flask template rendering |
+| CLI / Tooling | argparse, subprocess, Rich terminal output, logging |
+| Storage | Local JSON files, text reports, generated config files, run logs |
+| Workflow | Config-driven batch processing, modular scripts, dashboard-triggered pipeline |
+
+Key project keywords: `Python`, `Flask`, `Selenium`, `Web Scraping`, `Browser Automation`, `Headless Chrome`, `Data Pipeline`, `JSON`, `REST API`, `Currency Conversion`, `Regex Parsing`, `Sorting Algorithms`, `Deduplication`, `Input Validation`, `Logging`, `CLI Tools`, `Dashboard`, `Full-Stack Development`, `System Design`.
+
+## System Design
+
+High-level flow:
+
+```text
+User Input
+    |
+    v
+Flask Dashboard / trip.json
+    |
+    v
+Trip Config Generator
+    |
+    v
+Generated JSON Search Configs
+    |
+    v
+Selenium Flight Search Runner
+    |
+    v
+Google Flights Result Cards
+    |
+    v
+Parser + Cleaner + Normalizer
+    |
+    v
+Currency Conversion + Ranking
+    |
+    v
+Text Report + JSON Report + Dashboard View
+```
+
+Module-level architecture:
+
+```text
+app.py
+    |-- validates form input
+    |-- writes trip.json
+    |-- starts the search pipeline
+    `-- renders ranked results in the browser
+
+trip_configurator.py
+    |-- reads trip.json
+    |-- expands date ranges
+    `-- creates one JSON config per search date
+
+flight.py
+    |-- creates Chrome WebDriver
+    |-- builds Google Flights search URLs
+    |-- waits for flight result cards
+    `-- extracts raw flight details
+
+flight_automation.py
+    |-- loads generated configs
+    |-- runs searches in batches
+    |-- parses price, airline, stops, duration, and layovers
+    |-- fetches exchange rates
+    |-- sorts and deduplicates results
+    `-- writes final reports
+
+flight_orchestrator.py
+    |-- combines config generation and search automation
+    `-- provides a command-line workflow for complete runs
+```
+
+Data flow:
+
+```text
+trip.json
+    -> all_trip_combinations/single_trip_combinations/*.json
+    -> flights.txt
+    -> ParsedFlight objects
+    -> flight_results.json
+    -> yeg_del_one_way_results.txt
+    -> Flask dashboard results
+```
+
+Ranking logic:
+
+```text
+Available converted price
+    -> lowest converted price
+    -> fewer stops
+    -> shorter total duration
+    -> grouped by departure date
+```
 
 ## Getting Started
 
