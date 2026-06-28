@@ -1,0 +1,23 @@
+{
+    "origins": [
+        "Abu Dhabi",
+        "Dubai"
+    ],
+    "destinations": [
+        "San Jose",
+        "San Francisco"
+    ],
+    "departure_dates": [
+        {
+            "start": "2025-01-05",
+            "end": "2025-01-12"
+        }
+    ],
+    "return_dates": [
+        {
+            "start": "2025-06-13",
+            "end": "2025-06-16"
+        }
+    ],
+    "search_modifier": "cheapest"
+}

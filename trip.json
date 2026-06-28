@@ -1,0 +1,15 @@
+{
+    "origins": [
+        "YEG"
+    ],
+    "destinations": [
+        "DEL"
+    ],
+    "departure_dates": [
+        {
+            "start": "2026-07-24",
+            "end": "2026-07-30"
+        }
+    ],
+    "search_modifier": "cheapest CAD"
+}

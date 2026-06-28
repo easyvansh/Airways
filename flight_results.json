@@ -1,0 +1,1737 @@
+{
+  "metadata": {
+    "origin": "YEG",
+    "destination": "DEL",
+    "target_currency": "CAD",
+    "run_timestamp": "2026-06-28T08:50:28.032744+00:00",
+    "source_url_pattern": "https://www.google.com/travel/flights/search?q=Flights+to+DEST+from+ORIGIN+on+DATE+oneway&hl=en&gl=CA&curr=CURRENCY",
+    "config_dir": "all_trip_combinations\\single_trip_combinations",
+    "text_output_file": "D:\\CS BOOKS\\flight_mapper\\yeg_del_one_way_results.txt",
+    "json_output_file": "D:\\CS BOOKS\\flight_mapper\\flight_results.json",
+    "generated_config_count": 7,
+    "result_count": 21,
+    "failed_dates": [],
+    "warnings": [],
+    "rates": {
+      "CAD": 1.0
+    }
+  },
+  "best_overall": [
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 1,
+      "raw_price": 1068.0,
+      "raw_currency": "CAD",
+      "converted_price": 1068.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Alaska",
+        "Qatar Airways"
+      ],
+      "duration_minutes": 1588,
+      "stops": 2,
+      "connecting_airports": [
+        "Seattle-Tacoma International Airport in Seattle",
+        "Hamad International Airport in Doha"
+      ],
+      "full_details": "From 1068 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 1:55 AM on Sunday, July 26. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+      "warnings": [],
+      "cad_price": 1068.0,
+      "duration_label": "26h 28m",
+      "raw_price_label": "1,068.00 CAD",
+      "converted_price_label": "1,068.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 1,
+      "raw_price": 1118.0,
+      "raw_currency": "CAD",
+      "converted_price": 1118.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada"
+      ],
+      "duration_minutes": 2300,
+      "stops": 1,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto"
+      ],
+      "full_details": "From 1118 Canadian dollars. 1 stop flight with Air Canada. Leaves Edmonton International Airport at 6:00 PM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 7:50 PM on Monday, July 27. Total duration 38 hr 20 min.  Layover (1 of 1) is a 19 hr 54 min overnight layover at Toronto Pearson International Airport in Toronto.",
+      "warnings": [],
+      "cad_price": 1118.0,
+      "duration_label": "38h 20m",
+      "raw_price_label": "1,118.00 CAD",
+      "converted_price_label": "1,118.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 1,
+      "raw_price": 1145.0,
+      "raw_currency": "CAD",
+      "converted_price": 1145.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Edelweiss Air",
+        "SWISS"
+      ],
+      "duration_minutes": 1370,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Zurich Airport in Zürich"
+      ],
+      "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 11:35 PM on Tuesday, July 28. Total duration 22 hr 50 min.  Layover (1 of 2) is a 2 hr 38 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 50 min layover at Zurich Airport in Zürich.",
+      "warnings": [],
+      "cad_price": 1145.0,
+      "duration_label": "22h 50m",
+      "raw_price_label": "1,145.00 CAD",
+      "converted_price_label": "1,145.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 1,
+      "raw_price": 1145.0,
+      "raw_currency": "CAD",
+      "converted_price": 1145.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Edelweiss Air",
+        "SWISS"
+      ],
+      "duration_minutes": 1400,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Zurich Airport in Zürich"
+      ],
+      "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:05 AM on Thursday, July 30. Total duration 23 hr 20 min.  Layover (1 of 2) is a 2 hr 43 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 10 min layover at Zurich Airport in Zürich.",
+      "warnings": [],
+      "cad_price": 1145.0,
+      "duration_label": "23h 20m",
+      "raw_price_label": "1,145.00 CAD",
+      "converted_price_label": "1,145.00 CAD"
+    },
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 4,
+      "raw_price": 1152.0,
+      "raw_currency": "CAD",
+      "converted_price": 1152.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "United"
+      ],
+      "duration_minutes": 2435,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Newark Liberty International Airport in Newark"
+      ],
+      "full_details": "From 1152 Canadian dollars. 2 stops flight with Air Canada and United. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 5:25 PM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Sunday, July 26. Total duration 40 hr 35 min.  Layover (1 of 2) is a 8 hr 52 min overnight layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 11 hr 33 min layover at Newark Liberty International Airport in Newark.",
+      "warnings": [],
+      "cad_price": 1152.0,
+      "duration_label": "40h 35m",
+      "raw_price_label": "1,152.00 CAD",
+      "converted_price_label": "1,152.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 4,
+      "raw_price": 1180.0,
+      "raw_currency": "CAD",
+      "converted_price": 1180.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1620,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 1:55 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 27 hr.  Layover (1 of 2) is a 2 hr 20 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1180.0,
+      "duration_label": "27h",
+      "raw_price_label": "1,180.00 CAD",
+      "converted_price_label": "1,180.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 4,
+      "raw_price": 1180.0,
+      "raw_currency": "CAD",
+      "converted_price": 1180.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1680,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 9:25 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 6 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1180.0,
+      "duration_label": "28h",
+      "raw_price_label": "1,180.00 CAD",
+      "converted_price_label": "1,180.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 4:25 AM on Thursday, July 30. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 4:25 AM on Tuesday, July 28. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1565,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 11:20 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 26 hr 5 min.  Layover (1 of 2) is a 1 hr 35 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "26h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:55 AM on Thursday, July 30. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 5,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 8 hr layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1885,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 12:55 AM on Friday, July 31. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "31h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1885,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 12:55 AM on Saturday, August 1. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "31h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1945,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 11:45 AM on Friday, July 31. Total duration 32 hr 25 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 8 hr 45 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "32h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 2,
+      "raw_price": 1252.0,
+      "raw_currency": "CAD",
+      "converted_price": 1252.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Alaska",
+        "Qatar Airways"
+      ],
+      "duration_minutes": 1588,
+      "stops": 2,
+      "connecting_airports": [
+        "Seattle-Tacoma International Airport in Seattle",
+        "Hamad International Airport in Doha"
+      ],
+      "full_details": "From 1252 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 1:55 AM on Friday, July 31. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+      "warnings": [],
+      "cad_price": 1252.0,
+      "duration_label": "26h 28m",
+      "raw_price_label": "1,252.00 CAD",
+      "converted_price_label": "1,252.00 CAD"
+    },
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 5,
+      "raw_price": 1336.0,
+      "raw_currency": "CAD",
+      "converted_price": 1336.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "United"
+      ],
+      "duration_minutes": 1680,
+      "stops": 2,
+      "connecting_airports": [
+        "Denver International Airport in Denver",
+        "Newark Liberty International Airport in Newark"
+      ],
+      "full_details": "From 1336 Canadian dollars. 2 stops flight with United. Leaves Edmonton International Airport at 6:00 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Saturday, July 25. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 55 min layover at Denver International Airport in Denver. Layover (2 of 2) is a 2 hr 40 min layover at Newark Liberty International Airport in Newark.",
+      "warnings": [],
+      "cad_price": 1336.0,
+      "duration_label": "28h",
+      "raw_price_label": "1,336.00 CAD",
+      "converted_price_label": "1,336.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 2,
+      "raw_price": 1349.0,
+      "raw_currency": "CAD",
+      "converted_price": 1349.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "WestJet",
+        "Cathay Pacific"
+      ],
+      "duration_minutes": 1470,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Hong Kong International Airport in Hong Kong"
+      ],
+      "full_details": "From 1349 Canadian dollars. 2 stops flight with WestJet and Cathay Pacific. Leaves Edmonton International Airport at 11:50 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 11:50 PM on Friday, July 31. Total duration 24 hr 30 min.  Layover (1 of 2) is a 2 hr 20 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 15 min layover at Hong Kong International Airport in Hong Kong.",
+      "warnings": [],
+      "cad_price": 1349.0,
+      "duration_label": "24h 30m",
+      "raw_price_label": "1,349.00 CAD",
+      "converted_price_label": "1,349.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 4,
+      "raw_price": 1395.0,
+      "raw_currency": "CAD",
+      "converted_price": 1395.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "WestJet",
+        "Etihad"
+      ],
+      "duration_minutes": 1945,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Zayed International Airport in Abu Dhabi"
+      ],
+      "full_details": "From 1395 Canadian dollars. 2 stops flight with WestJet and Etihad. Leaves Edmonton International Airport at 11:25 PM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 7:20 PM on Saturday, August 1. Total duration 32 hr 25 min.  Layover (1 of 2) is a 8 hr 30 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Zayed International Airport in Abu Dhabi.",
+      "warnings": [],
+      "cad_price": 1395.0,
+      "duration_label": "32h 25m",
+      "raw_price_label": "1,395.00 CAD",
+      "converted_price_label": "1,395.00 CAD"
+    }
+  ],
+  "results_by_date": {
+    "2026-07-24": [
+      {
+        "config_file": "1.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-24",
+        "rank": 1,
+        "raw_price": 1068.0,
+        "raw_currency": "CAD",
+        "converted_price": 1068.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Alaska",
+          "Qatar Airways"
+        ],
+        "duration_minutes": 1588,
+        "stops": 2,
+        "connecting_airports": [
+          "Seattle-Tacoma International Airport in Seattle",
+          "Hamad International Airport in Doha"
+        ],
+        "full_details": "From 1068 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 1:55 AM on Sunday, July 26. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+        "warnings": [],
+        "cad_price": 1068.0,
+        "duration_label": "26h 28m",
+        "raw_price_label": "1,068.00 CAD",
+        "converted_price_label": "1,068.00 CAD"
+      },
+      {
+        "config_file": "1.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-24",
+        "rank": 4,
+        "raw_price": 1152.0,
+        "raw_currency": "CAD",
+        "converted_price": 1152.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "United"
+        ],
+        "duration_minutes": 2435,
+        "stops": 2,
+        "connecting_airports": [
+          "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+          "Newark Liberty International Airport in Newark"
+        ],
+        "full_details": "From 1152 Canadian dollars. 2 stops flight with Air Canada and United. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 5:25 PM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Sunday, July 26. Total duration 40 hr 35 min.  Layover (1 of 2) is a 8 hr 52 min overnight layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 11 hr 33 min layover at Newark Liberty International Airport in Newark.",
+        "warnings": [],
+        "cad_price": 1152.0,
+        "duration_label": "40h 35m",
+        "raw_price_label": "1,152.00 CAD",
+        "converted_price_label": "1,152.00 CAD"
+      },
+      {
+        "config_file": "1.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-24",
+        "rank": 5,
+        "raw_price": 1336.0,
+        "raw_currency": "CAD",
+        "converted_price": 1336.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "United"
+        ],
+        "duration_minutes": 1680,
+        "stops": 2,
+        "connecting_airports": [
+          "Denver International Airport in Denver",
+          "Newark Liberty International Airport in Newark"
+        ],
+        "full_details": "From 1336 Canadian dollars. 2 stops flight with United. Leaves Edmonton International Airport at 6:00 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Saturday, July 25. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 55 min layover at Denver International Airport in Denver. Layover (2 of 2) is a 2 hr 40 min layover at Newark Liberty International Airport in Newark.",
+        "warnings": [],
+        "cad_price": 1336.0,
+        "duration_label": "28h",
+        "raw_price_label": "1,336.00 CAD",
+        "converted_price_label": "1,336.00 CAD"
+      }
+    ],
+    "2026-07-25": [
+      {
+        "config_file": "2.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-25",
+        "rank": 1,
+        "raw_price": 1118.0,
+        "raw_currency": "CAD",
+        "converted_price": 1118.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada"
+        ],
+        "duration_minutes": 2300,
+        "stops": 1,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto"
+        ],
+        "full_details": "From 1118 Canadian dollars. 1 stop flight with Air Canada. Leaves Edmonton International Airport at 6:00 PM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 7:50 PM on Monday, July 27. Total duration 38 hr 20 min.  Layover (1 of 1) is a 19 hr 54 min overnight layover at Toronto Pearson International Airport in Toronto.",
+        "warnings": [],
+        "cad_price": 1118.0,
+        "duration_label": "38h 20m",
+        "raw_price_label": "1,118.00 CAD",
+        "converted_price_label": "1,118.00 CAD"
+      },
+      {
+        "config_file": "2.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-25",
+        "rank": 4,
+        "raw_price": 1180.0,
+        "raw_currency": "CAD",
+        "converted_price": 1180.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1680,
+        "stops": 2,
+        "connecting_airports": [
+          "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 9:25 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 6 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1180.0,
+        "duration_label": "28h",
+        "raw_price_label": "1,180.00 CAD",
+        "converted_price_label": "1,180.00 CAD"
+      },
+      {
+        "config_file": "2.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-25",
+        "rank": 2,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1565,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 11:20 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 26 hr 5 min.  Layover (1 of 2) is a 1 hr 35 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "26h 5m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      }
+    ],
+    "2026-07-27": [
+      {
+        "config_file": "4.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-27",
+        "rank": 1,
+        "raw_price": 1145.0,
+        "raw_currency": "CAD",
+        "converted_price": 1145.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Edelweiss Air",
+          "SWISS"
+        ],
+        "duration_minutes": 1370,
+        "stops": 2,
+        "connecting_airports": [
+          "Vancouver International Airport in Vancouver",
+          "Zurich Airport in Zürich"
+        ],
+        "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 11:35 PM on Tuesday, July 28. Total duration 22 hr 50 min.  Layover (1 of 2) is a 2 hr 38 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 50 min layover at Zurich Airport in Zürich.",
+        "warnings": [],
+        "cad_price": 1145.0,
+        "duration_label": "22h 50m",
+        "raw_price_label": "1,145.00 CAD",
+        "converted_price_label": "1,145.00 CAD"
+      },
+      {
+        "config_file": "4.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-27",
+        "rank": 4,
+        "raw_price": 1180.0,
+        "raw_currency": "CAD",
+        "converted_price": 1180.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1620,
+        "stops": 2,
+        "connecting_airports": [
+          "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 1:55 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 27 hr.  Layover (1 of 2) is a 2 hr 20 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1180.0,
+        "duration_label": "27h",
+        "raw_price_label": "1,180.00 CAD",
+        "converted_price_label": "1,180.00 CAD"
+      },
+      {
+        "config_file": "4.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-27",
+        "rank": 2,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1505,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "25h 5m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      }
+    ],
+    "2026-07-28": [
+      {
+        "config_file": "5.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-28",
+        "rank": 1,
+        "raw_price": 1145.0,
+        "raw_currency": "CAD",
+        "converted_price": 1145.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Edelweiss Air",
+          "SWISS"
+        ],
+        "duration_minutes": 1400,
+        "stops": 2,
+        "connecting_airports": [
+          "Vancouver International Airport in Vancouver",
+          "Zurich Airport in Zürich"
+        ],
+        "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:05 AM on Thursday, July 30. Total duration 23 hr 20 min.  Layover (1 of 2) is a 2 hr 43 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 10 min layover at Zurich Airport in Zürich.",
+        "warnings": [],
+        "cad_price": 1145.0,
+        "duration_label": "23h 20m",
+        "raw_price_label": "1,145.00 CAD",
+        "converted_price_label": "1,145.00 CAD"
+      },
+      {
+        "config_file": "5.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-28",
+        "rank": 2,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1505,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 4:25 AM on Thursday, July 30. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "25h 5m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "5.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-28",
+        "rank": 4,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1825,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:55 AM on Thursday, July 30. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "30h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      }
+    ],
+    "2026-07-26": [
+      {
+        "config_file": "3.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-26",
+        "rank": 1,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1505,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 4:25 AM on Tuesday, July 28. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "25h 5m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "3.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-26",
+        "rank": 4,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1825,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "30h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "3.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-26",
+        "rank": 5,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1825,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 8 hr layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "30h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      }
+    ],
+    "2026-07-29": [
+      {
+        "config_file": "6.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-29",
+        "rank": 1,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1885,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 12:55 AM on Friday, July 31. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "31h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "6.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-29",
+        "rank": 4,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1945,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 11:45 AM on Friday, July 31. Total duration 32 hr 25 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 8 hr 45 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "32h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "6.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-29",
+        "rank": 2,
+        "raw_price": 1252.0,
+        "raw_currency": "CAD",
+        "converted_price": 1252.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Alaska",
+          "Qatar Airways"
+        ],
+        "duration_minutes": 1588,
+        "stops": 2,
+        "connecting_airports": [
+          "Seattle-Tacoma International Airport in Seattle",
+          "Hamad International Airport in Doha"
+        ],
+        "full_details": "From 1252 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 1:55 AM on Friday, July 31. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+        "warnings": [],
+        "cad_price": 1252.0,
+        "duration_label": "26h 28m",
+        "raw_price_label": "1,252.00 CAD",
+        "converted_price_label": "1,252.00 CAD"
+      }
+    ],
+    "2026-07-30": [
+      {
+        "config_file": "7.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-30",
+        "rank": 1,
+        "raw_price": 1186.0,
+        "raw_currency": "CAD",
+        "converted_price": 1186.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "Air Canada",
+          "Air India"
+        ],
+        "duration_minutes": 1885,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Heathrow Airport in London"
+        ],
+        "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 12:55 AM on Saturday, August 1. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+        "warnings": [],
+        "cad_price": 1186.0,
+        "duration_label": "31h 25m",
+        "raw_price_label": "1,186.00 CAD",
+        "converted_price_label": "1,186.00 CAD"
+      },
+      {
+        "config_file": "7.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-30",
+        "rank": 2,
+        "raw_price": 1349.0,
+        "raw_currency": "CAD",
+        "converted_price": 1349.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "WestJet",
+          "Cathay Pacific"
+        ],
+        "duration_minutes": 1470,
+        "stops": 2,
+        "connecting_airports": [
+          "Vancouver International Airport in Vancouver",
+          "Hong Kong International Airport in Hong Kong"
+        ],
+        "full_details": "From 1349 Canadian dollars. 2 stops flight with WestJet and Cathay Pacific. Leaves Edmonton International Airport at 11:50 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 11:50 PM on Friday, July 31. Total duration 24 hr 30 min.  Layover (1 of 2) is a 2 hr 20 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 15 min layover at Hong Kong International Airport in Hong Kong.",
+        "warnings": [],
+        "cad_price": 1349.0,
+        "duration_label": "24h 30m",
+        "raw_price_label": "1,349.00 CAD",
+        "converted_price_label": "1,349.00 CAD"
+      },
+      {
+        "config_file": "7.json",
+        "origin": "YEG",
+        "destination": "DEL",
+        "depart_date": "2026-07-30",
+        "rank": 4,
+        "raw_price": 1395.0,
+        "raw_currency": "CAD",
+        "converted_price": 1395.0,
+        "target_currency": "CAD",
+        "airlines": [
+          "WestJet",
+          "Etihad"
+        ],
+        "duration_minutes": 1945,
+        "stops": 2,
+        "connecting_airports": [
+          "Toronto Pearson International Airport in Toronto",
+          "Zayed International Airport in Abu Dhabi"
+        ],
+        "full_details": "From 1395 Canadian dollars. 2 stops flight with WestJet and Etihad. Leaves Edmonton International Airport at 11:25 PM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 7:20 PM on Saturday, August 1. Total duration 32 hr 25 min.  Layover (1 of 2) is a 8 hr 30 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Zayed International Airport in Abu Dhabi.",
+        "warnings": [],
+        "cad_price": 1395.0,
+        "duration_label": "32h 25m",
+        "raw_price_label": "1,395.00 CAD",
+        "converted_price_label": "1,395.00 CAD"
+      }
+    ]
+  },
+  "results": [
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 1,
+      "raw_price": 1068.0,
+      "raw_currency": "CAD",
+      "converted_price": 1068.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Alaska",
+        "Qatar Airways"
+      ],
+      "duration_minutes": 1588,
+      "stops": 2,
+      "connecting_airports": [
+        "Seattle-Tacoma International Airport in Seattle",
+        "Hamad International Airport in Doha"
+      ],
+      "full_details": "From 1068 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 1:55 AM on Sunday, July 26. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+      "warnings": [],
+      "cad_price": 1068.0,
+      "duration_label": "26h 28m",
+      "raw_price_label": "1,068.00 CAD",
+      "converted_price_label": "1,068.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 1,
+      "raw_price": 1118.0,
+      "raw_currency": "CAD",
+      "converted_price": 1118.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada"
+      ],
+      "duration_minutes": 2300,
+      "stops": 1,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto"
+      ],
+      "full_details": "From 1118 Canadian dollars. 1 stop flight with Air Canada. Leaves Edmonton International Airport at 6:00 PM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 7:50 PM on Monday, July 27. Total duration 38 hr 20 min.  Layover (1 of 1) is a 19 hr 54 min overnight layover at Toronto Pearson International Airport in Toronto.",
+      "warnings": [],
+      "cad_price": 1118.0,
+      "duration_label": "38h 20m",
+      "raw_price_label": "1,118.00 CAD",
+      "converted_price_label": "1,118.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 1,
+      "raw_price": 1145.0,
+      "raw_currency": "CAD",
+      "converted_price": 1145.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Edelweiss Air",
+        "SWISS"
+      ],
+      "duration_minutes": 1370,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Zurich Airport in Zürich"
+      ],
+      "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 11:35 PM on Tuesday, July 28. Total duration 22 hr 50 min.  Layover (1 of 2) is a 2 hr 38 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 50 min layover at Zurich Airport in Zürich.",
+      "warnings": [],
+      "cad_price": 1145.0,
+      "duration_label": "22h 50m",
+      "raw_price_label": "1,145.00 CAD",
+      "converted_price_label": "1,145.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 1,
+      "raw_price": 1145.0,
+      "raw_currency": "CAD",
+      "converted_price": 1145.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Edelweiss Air",
+        "SWISS"
+      ],
+      "duration_minutes": 1400,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Zurich Airport in Zürich"
+      ],
+      "full_details": "From 1145 Canadian dollars. 2 stops flight with Air Canada, Edelweiss Air and SWISS. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 1:15 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:05 AM on Thursday, July 30. Total duration 23 hr 20 min.  Layover (1 of 2) is a 2 hr 43 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 10 min layover at Zurich Airport in Zürich.",
+      "warnings": [],
+      "cad_price": 1145.0,
+      "duration_label": "23h 20m",
+      "raw_price_label": "1,145.00 CAD",
+      "converted_price_label": "1,145.00 CAD"
+    },
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 4,
+      "raw_price": 1152.0,
+      "raw_currency": "CAD",
+      "converted_price": 1152.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "United"
+      ],
+      "duration_minutes": 2435,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Newark Liberty International Airport in Newark"
+      ],
+      "full_details": "From 1152 Canadian dollars. 2 stops flight with Air Canada and United. Operated by Air Canada Express - Jazz. Leaves Edmonton International Airport at 5:25 PM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Sunday, July 26. Total duration 40 hr 35 min.  Layover (1 of 2) is a 8 hr 52 min overnight layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 11 hr 33 min layover at Newark Liberty International Airport in Newark.",
+      "warnings": [],
+      "cad_price": 1152.0,
+      "duration_label": "40h 35m",
+      "raw_price_label": "1,152.00 CAD",
+      "converted_price_label": "1,152.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 4,
+      "raw_price": 1180.0,
+      "raw_currency": "CAD",
+      "converted_price": 1180.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1620,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 1:55 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 27 hr.  Layover (1 of 2) is a 2 hr 20 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1180.0,
+      "duration_label": "27h",
+      "raw_price_label": "1,180.00 CAD",
+      "converted_price_label": "1,180.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 4,
+      "raw_price": 1180.0,
+      "raw_currency": "CAD",
+      "converted_price": 1180.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1680,
+      "stops": 2,
+      "connecting_airports": [
+        "Montréal-Pierre Elliott Trudeau International Airport in Montreal",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1180 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 9:25 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 6 min layover at Montréal-Pierre Elliott Trudeau International Airport in Montreal. Layover (2 of 2) is a 3 hr 15 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1180.0,
+      "duration_label": "28h",
+      "raw_price_label": "1,180.00 CAD",
+      "converted_price_label": "1,180.00 CAD"
+    },
+    {
+      "config_file": "4.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-27",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Monday, July 27 and arrives at Indira Gandhi International Airport at 4:25 AM on Wednesday, July 29. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 4:25 AM on Thursday, July 30. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1505,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 4:25 AM on Tuesday, July 28. Total duration 25 hr 5 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 25 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "25h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "2.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-25",
+      "rank": 2,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1565,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 11:20 AM on Saturday, July 25 and arrives at Indira Gandhi International Airport at 12:55 AM on Monday, July 27. Total duration 26 hr 5 min.  Layover (1 of 2) is a 1 hr 35 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "26h 5m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "5.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-28",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Tuesday, July 28 and arrives at Indira Gandhi International Airport at 12:55 AM on Thursday, July 30. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 5 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "3.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-26",
+      "rank": 5,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1825,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 7:00 AM on Sunday, July 26 and arrives at Indira Gandhi International Airport at 12:55 AM on Tuesday, July 28. Total duration 30 hr 25 min.  Layover (1 of 2) is a 8 hr layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 1 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "30h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1885,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 12:55 AM on Friday, July 31. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "31h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 1,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1885,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 6:00 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 12:55 AM on Saturday, August 1. Total duration 31 hr 25 min.  Layover (1 of 2) is a 6 hr 55 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "31h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 4,
+      "raw_price": 1186.0,
+      "raw_currency": "CAD",
+      "converted_price": 1186.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Air Canada",
+        "Air India"
+      ],
+      "duration_minutes": 1945,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Heathrow Airport in London"
+      ],
+      "full_details": "From 1186 Canadian dollars. 2 stops flight with Air Canada and Air India. Leaves Edmonton International Airport at 3:50 PM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 11:45 AM on Friday, July 31. Total duration 32 hr 25 min.  Layover (1 of 2) is a 2 hr 15 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 8 hr 45 min layover at Heathrow Airport in London.",
+      "warnings": [],
+      "cad_price": 1186.0,
+      "duration_label": "32h 25m",
+      "raw_price_label": "1,186.00 CAD",
+      "converted_price_label": "1,186.00 CAD"
+    },
+    {
+      "config_file": "6.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-29",
+      "rank": 2,
+      "raw_price": 1252.0,
+      "raw_currency": "CAD",
+      "converted_price": 1252.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "Alaska",
+        "Qatar Airways"
+      ],
+      "duration_minutes": 1588,
+      "stops": 2,
+      "connecting_airports": [
+        "Seattle-Tacoma International Airport in Seattle",
+        "Hamad International Airport in Doha"
+      ],
+      "full_details": "From 1252 Canadian dollars. 2 stops flight with Alaska and Qatar Airways. Operated by Horizon Air as Alaska Horizon. Leaves Edmonton International Airport at 11:57 AM on Wednesday, July 29 and arrives at Indira Gandhi International Airport at 1:55 AM on Friday, July 31. Total duration 26 hr 28 min.  Layover (1 of 2) is a 3 hr 36 min layover at Seattle-Tacoma International Airport in Seattle. Layover (2 of 2) is a 2 hr 35 min layover at Hamad International Airport in Doha.",
+      "warnings": [],
+      "cad_price": 1252.0,
+      "duration_label": "26h 28m",
+      "raw_price_label": "1,252.00 CAD",
+      "converted_price_label": "1,252.00 CAD"
+    },
+    {
+      "config_file": "1.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-24",
+      "rank": 5,
+      "raw_price": 1336.0,
+      "raw_currency": "CAD",
+      "converted_price": 1336.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "United"
+      ],
+      "duration_minutes": 1680,
+      "stops": 2,
+      "connecting_airports": [
+        "Denver International Airport in Denver",
+        "Newark Liberty International Airport in Newark"
+      ],
+      "full_details": "From 1336 Canadian dollars. 2 stops flight with United. Leaves Edmonton International Airport at 6:00 AM on Friday, July 24 and arrives at Indira Gandhi International Airport at 9:30 PM on Saturday, July 25. Total duration 28 hr.  Layover (1 of 2) is a 3 hr 55 min layover at Denver International Airport in Denver. Layover (2 of 2) is a 2 hr 40 min layover at Newark Liberty International Airport in Newark.",
+      "warnings": [],
+      "cad_price": 1336.0,
+      "duration_label": "28h",
+      "raw_price_label": "1,336.00 CAD",
+      "converted_price_label": "1,336.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 2,
+      "raw_price": 1349.0,
+      "raw_currency": "CAD",
+      "converted_price": 1349.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "WestJet",
+        "Cathay Pacific"
+      ],
+      "duration_minutes": 1470,
+      "stops": 2,
+      "connecting_airports": [
+        "Vancouver International Airport in Vancouver",
+        "Hong Kong International Airport in Hong Kong"
+      ],
+      "full_details": "From 1349 Canadian dollars. 2 stops flight with WestJet and Cathay Pacific. Leaves Edmonton International Airport at 11:50 AM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 11:50 PM on Friday, July 31. Total duration 24 hr 30 min.  Layover (1 of 2) is a 2 hr 20 min layover at Vancouver International Airport in Vancouver. Layover (2 of 2) is a 1 hr 15 min layover at Hong Kong International Airport in Hong Kong.",
+      "warnings": [],
+      "cad_price": 1349.0,
+      "duration_label": "24h 30m",
+      "raw_price_label": "1,349.00 CAD",
+      "converted_price_label": "1,349.00 CAD"
+    },
+    {
+      "config_file": "7.json",
+      "origin": "YEG",
+      "destination": "DEL",
+      "depart_date": "2026-07-30",
+      "rank": 4,
+      "raw_price": 1395.0,
+      "raw_currency": "CAD",
+      "converted_price": 1395.0,
+      "target_currency": "CAD",
+      "airlines": [
+        "WestJet",
+        "Etihad"
+      ],
+      "duration_minutes": 1945,
+      "stops": 2,
+      "connecting_airports": [
+        "Toronto Pearson International Airport in Toronto",
+        "Zayed International Airport in Abu Dhabi"
+      ],
+      "full_details": "From 1395 Canadian dollars. 2 stops flight with WestJet and Etihad. Leaves Edmonton International Airport at 11:25 PM on Thursday, July 30 and arrives at Indira Gandhi International Airport at 7:20 PM on Saturday, August 1. Total duration 32 hr 25 min.  Layover (1 of 2) is a 8 hr 30 min layover at Toronto Pearson International Airport in Toronto. Layover (2 of 2) is a 3 hr 10 min layover at Zayed International Airport in Abu Dhabi.",
+      "warnings": [],
+      "cad_price": 1395.0,
+      "duration_label": "32h 25m",
+      "raw_price_label": "1,395.00 CAD",
+      "converted_price_label": "1,395.00 CAD"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="56" fill="#08101F"/>
+  <rect x="1" y="1" width="254" height="254" rx="55" stroke="url(#border)" stroke-opacity="0.65" stroke-width="2"/>
+  <path d="M52 148C84 116 118 91 204 64C175 112 139 153 86 192L96 144L52 148Z" fill="url(#wing)"/>
+  <path d="M92 143L34 105L76 96L132 123L92 143Z" fill="url(#trail)" opacity="0.9"/>
+  <path d="M109 162L122 220L151 187L143 136L109 162Z" fill="url(#tail)" opacity="0.92"/>
+  <path d="M79 70C122 49 165 45 204 64" stroke="#DDE8FF" stroke-opacity="0.75" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="198" cy="64" r="8" fill="#5DF0A4"/>
+  <defs>
+    <linearGradient id="border" x1="22" y1="12" x2="236" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78A6FF"/>
+      <stop offset="0.55" stop-color="#8E78FF"/>
+      <stop offset="1" stop-color="#30D6C7"/>
+    </linearGradient>
+    <linearGradient id="wing" x1="52" y1="64" x2="204" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFF"/>
+      <stop offset="0.45" stop-color="#93B7FF"/>
+      <stop offset="1" stop-color="#30D6C7"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="34" y1="96" x2="132" y2="143" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#596BFF"/>
+      <stop offset="1" stop-color="#A28BFF"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="109" y1="136" x2="151" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78A6FF"/>
+      <stop offset="1" stop-color="#5DF0A4"/>
+    </linearGradient>
+  </defs>
+</svg>
